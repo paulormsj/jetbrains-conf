@@ -1,0 +1,11 @@
+{
+    "vim.disableAnnoyingNeovimMessage": true,
+    "files.autoSave": "afterDelay",
+    "editor.tabSize": 2,
+    "vim.handleKeys": {
+        "<C-a>": false,
+        "<C-k>": false
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "editor.snippetSuggestions": "top"
+}
