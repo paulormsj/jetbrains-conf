@@ -1,11 +1,30 @@
 {
     "vim.disableAnnoyingNeovimMessage": true,
     "files.autoSave": "afterDelay",
-    "editor.tabSize": 2,
+    "editor.tabSize": 4,
     "vim.handleKeys": {
         "<C-a>": false,
         "<C-k>": false
     },
     "workbench.iconTheme": "vscode-icons",
-    "editor.snippetSuggestions": "top"
+    "editor.snippetSuggestions": "top",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "node_modules/": true
+    },
+    "files.autoSaveDelay": 10000,
+    "vsicons.projectDetection.autoReload": true,
+    "workbench.colorTheme": "Material Theme",
+    "materialTheme.cache.workbench.settings": {
+        "themeColours": "Darker"
+    },
+    "editor.fontFamily": "'Open Sans",
+    "terminal.integrated.fontFamily": "'Roboto'",
+    "window.zoomLevel": 0,
+    "editor.fontSize": 15,
+    "editor.formatOnSave": true
 }

@@ -8,7 +8,7 @@
 	"Print to console": {
 		"prefix": "log",
 		"body": [
-			"console.log('$1');",
+			"winston.debug('$1');",
 			"$2"
 		],
 		"description": "Log output to console"
@@ -40,11 +40,66 @@
 		],
 		"description": "Callback with a parameter"
 	},
+	"Request Response": {
+		"prefix": "rest",
+		"body": [
+			"(req: Request | any, resp: Response) => {",
+			"	$0",
+			"}"
+		],
+		"description": "Callback with a parameter"
+	},
+	"REST get": {
+		"prefix": "rget",
+		"body": [
+			"router.get('/$1', (req: Request | any, res: Response) => {",
+			"	$0",
+			"})"
+		]
+	},
+	"REST post": {
+		"prefix": "rpost",
+		"body": [
+			"router.post('/$1', (req: Request | any, res: Response) => {",
+			"	$0",
+			"})"
+		]
+	},
+	"REST put": {
+		"prefix": "rput",
+		"body": [
+			"router.put('/$1', (req: Request | any, res: Response) => {",
+			"	$0",
+			"})"
+		]
+	},
+	"REST delete": {
+		"prefix": "rdel",
+		"body": [
+			"router.delete('/$1', (req: Request | any, res: Response) => {"
+			"	$0",
+			"})"
+		]
+	},
 	"Import": {
-		"prefix": "infrom"
+		"prefix": "imfrom"
 		"body": [
 			"import { $2 } from '$1'"
 		],
 		"description": "Import from lib"
+	},
+	"Import as": {
+		"prefix": "imall",
+		"body": "import * as $1 from '$2'$0",
+		"description": "Import from require javascript"
+	},
+	"Console log": {
+		"prefix": "clog",
+		"body": [
+			"console.log($1);",
+			"$0"
+		],
+		"description": "Console log"
 	}
+
 }
