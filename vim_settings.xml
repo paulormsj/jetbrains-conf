@@ -9,26 +9,23 @@
         <mark key="^" line="33" column="27" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/src/main/java/com/clickbus/platform/places/config/CacheManagerConfig.java" timestamp="1541521822908">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="39" />
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/src/main/java/com/clickbus/platform/places/config/CacheManagerConfig.java" timestamp="1541596049735">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="3" />
         <mark key="^" line="17" column="3" />
-        <mark key="." line="12" column="0" />
+        <mark key="." line="17" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-cms-microservices/bin/sonar.sh" timestamp="1541532290988">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="71" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-rollback-worker/pom.xml" timestamp="1541450434107" />
       <file name="/platform.customer [plataform@localhost]" timestamp="1541431900140">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1541521756770">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/config-stash/trips_api/application.properties" timestamp="1541452482002" />
-      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/src/test/java/com/clickbus/platform/places/PlaceConfigTest.java" timestamp="1541447962247" />
       <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/application.properties" timestamp="1541520935791">
         <mark key="'" line="28" column="56" />
         <mark key="[" line="45" column="44" />
@@ -56,7 +53,6 @@
       <file name="/a.sql" timestamp="1541109195591">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/config-stash/rollback_worker/application.properties" timestamp="1541508975975" />
       <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/pom.xml" timestamp="1541511187777">
         <mark key="'" line="144" column="27" />
         <mark key="[" line="33" column="21" />
@@ -136,7 +132,6 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-cms-microservices/src/main/java/com/clickbus/platform/cms/business/CMSBusinessImpl.java" timestamp="1541523154554" />
       <file name="/platform.order [platform@localhost]" timestamp="1540908747748">
         <mark key="[" line="0" column="0" />
       </file>
@@ -152,7 +147,6 @@
       <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/src/test/java/com/clickbus/platform/places/integration/test/CucumberIntegrationTestIT.java" timestamp="1540992424294">
         <mark key="[" line="18" column="77" />
       </file>
-      <file name="/pom.xml" timestamp="1541448310782" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/26712df1-6de5-4a3c-a347-41105d28bbf6/console.sql" timestamp="1541510272109">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="21" />
@@ -169,8 +163,6 @@
       <file name="/fragment.java" timestamp="1541523188703">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/clickbus/platform/clickbus-platform-general-services/1.16.149/clickbus-platform-general-services-1.16.149-sources.jar!/com/clickbus/platform/email/utils/TemplateUtilsImpl.java" timestamp="1541445684152" />
-      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/src/main/java/com/clickbus/platform/places/Application.java" timestamp="1541521348749" />
     </filemarks>
     <jumps>
       <jump line="4" column="30" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/pom.xml" />
@@ -388,6 +380,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
