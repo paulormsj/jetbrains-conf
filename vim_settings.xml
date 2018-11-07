@@ -36,6 +36,12 @@
       <file name="/platform.country [plataform@localhost]" timestamp="1541431890236">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/config-stash/cms_api/application.properties" timestamp="1541596550459">
+        <mark key="[" line="24" column="62" />
+        <mark key="]" line="24" column="64" />
+        <mark key="." line="24" column="64" />
+        <mark key="^" line="24" column="64" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/14f29f53-077a-4af8-86e0-6ccecbcbef77/console.sql" timestamp="1540917266586">
         <mark key="[" line="0" column="0" />
       </file>
@@ -132,6 +138,7 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/config-stash/places_api/application.properties" timestamp="1541596522972" />
       <file name="/platform.order [platform@localhost]" timestamp="1540908747748">
         <mark key="[" line="0" column="0" />
       </file>
@@ -267,11 +274,11 @@
       <jump line="66" column="24" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-cms-microservices/src/main/java/com/clickbus/platform/cms/web/CMSController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAtRHNvbmFyLmdpdGh1Yi5vYXV0aD0yNWYxOWUzNDMzZTA1YTI3MzBhNjY5MTdlNzJhODQ2MGJmYjg3Y2NlIFwK</text>
+      <register name="&quot;" type="4">
+        <text>places</text>
       </register>
       <register name="-" type="4">
-        <text>/media/antonio-cesar/HD/workspace/clickbus-cms</text>
+        <text>places</text>
       </register>
       <register name="/" type="4">
         <text>file.pa</text>
