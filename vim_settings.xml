@@ -45,11 +45,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/14f29f53-077a-4af8-86e0-6ccecbcbef77/console.sql" timestamp="1540917266586">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-cms-microservices/src/main/java/com/clickbus/platform/cms/Application.java" timestamp="1541521843237">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="33" column="32" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-cms-microservices/src/main/java/com/clickbus/platform/cms/Application.java" timestamp="1541598341450">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="29" column="32" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/bin/sonar.sh" timestamp="1541532288773">
         <mark key="[" line="8" column="0" />
@@ -119,11 +119,12 @@
         <mark key="." line="327" column="7" />
         <mark key="^" line="327" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-cms-microservices/src/main/java/com/clickbus/platform/cms/config/CacheManagerConfig.java" timestamp="1541521828919">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="15" column="2" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-cms-microservices/src/main/java/com/clickbus/platform/cms/config/CacheManagerConfig.java" timestamp="1541598286560">
+        <mark key="'" line="12" column="30" />
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="12" column="32" />
+        <mark key="^" line="11" column="2" />
+        <mark key="." line="12" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/pom.xml" timestamp="1541521226963">
         <mark key="'" line="130" column="21" />
@@ -172,7 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="30" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/pom.xml" />
       <jump line="17" column="24" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/pom.xml" />
       <jump line="22" column="32" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/pom.xml" />
       <jump line="69" column="29" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/pom.xml" />
@@ -272,13 +272,14 @@
       <jump line="130" column="21" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/pom.xml" />
       <jump line="45" column="25" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-cms-microservices/application.properties" />
       <jump line="66" column="24" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-cms-microservices/src/main/java/com/clickbus/platform/cms/web/CMSController.java" />
+      <jump line="12" column="30" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-cms-microservices/src/main/java/com/clickbus/platform/cms/config/CacheManagerConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>places</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QENvbXBvbmVudFNjYW4oewoJImNvbS5jbGlja2J1cy5wbGF0Zm9ybS5jbXMiCn0pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>places</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>file.pa</text>
@@ -287,31 +288,31 @@
         <text encoding="base64">ICAgICAgICAtRHNvbmFyLmdpdGh1Yi5vYXV0aD04M2NmZGQzM2Y0MGQxNGE5NWVhZTVkMTRhYWZiMzlkZjRkNDRiYjBlIFwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAtRHNvbmFyLmdpdGh1Yi5vYXV0aD0yNWYxOWUzNDMzZTA1YTI3MzBhNjY5MTdlNzJhODQ2MGJmYjg3Y2NlIFwK</text>
+        <text encoding="base64">QENvbXBvbmVudFNjYW4oewoJImNvbS5jbGlja2J1cy5wbGF0Zm9ybS5jbXMiCn0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS1Ec29uYXIuaG9zdC51cmw9aHR0cDovL3NvbmFycXViZS5jbGlja2J1cy5uZXQ6OTAwMCBcCg==</text>
+        <text encoding="base64">ICAgICAgICAtRHNvbmFyLmdpdGh1Yi5vYXV0aD0yNWYxOWUzNDMzZTA1YTI3MzBhNjY5MTdlNzJhODQ2MGJmYjg3Y2NlIFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBASWdub3JlCg==</text>
+        <text encoding="base64">CS1Ec29uYXIuaG9zdC51cmw9aHR0cDovL3NvbmFycXViZS5jbGlja2J1cy5uZXQ6OTAwMCBcCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QEVuYWJsZUNhY2hpbmcocHJveHlUYXJnZXRDbGFzcz10cnVlKQo=</text>
+        <text encoding="base64">ICBASWdub3JlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">QEVuYWJsZUNhY2hpbmcocHJveHlUYXJnZXRDbGFzcz10cnVlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUBCZWFuCglwdWJsaWMgUmVkaXNUZW1wbGF0ZTw/LCA/PiByZWRpc1RlbXBsYXRlKFJlZGlzQ29ubmVjdGlvbkZhY3RvcnkgcmVkaXNDb25uZWN0aW9uRmFjdG9yeSl7CgkJUmVkaXNUZW1wbGF0ZTw/LCA/PiByZWRpc1RlbXBsYXRlID0gbmV3IFJlZGlzVGVtcGxhdGU8PigpOwoJCXJlZGlzVGVtcGxhdGUuc2V0Q29ubmVjdGlvbkZhY3RvcnkocmVkaXNDb25uZWN0aW9uRmFjdG9yeSk7CgkJcmV0dXJuIHJlZGlzVGVtcGxhdGU7Cgl9Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">CUBCZWFuCglwdWJsaWMgUmVkaXNUZW1wbGF0ZTw/LCA/PiByZWRpc1RlbXBsYXRlKFJlZGlzQ29ubmVjdGlvbkZhY3RvcnkgcmVkaXNDb25uZWN0aW9uRmFjdG9yeSl7CgkJUmVkaXNUZW1wbGF0ZTw/LCA/PiByZWRpc1RlbXBsYXRlID0gbmV3IFJlZGlzVGVtcGxhdGU8PigpOwoJCXJlZGlzVGVtcGxhdGUuc2V0Q29ubmVjdGlvbkZhY3RvcnkocmVkaXNDb25uZWN0aW9uRmFjdG9yeSk7CgkJcmV0dXJuIHJlZGlzVGVtcGxhdGU7Cgl9Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CXByaXZhdGUgbG9uZyBjYWNoZVRpbWVvdXREZWZhdWx0OyAgIHByaXZhdGUgU3RyaW5nIHJlZGlzUG9ydDsK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CgkKCUBWYWx1ZSgiJHtzcHJpbmcucmVkaXMuaG9zdH0iKQogICAgcHJpdmF0ZSBTdHJpbmcgcmVkaXNIb3N0OwoJCiAgICBAVmFsdWUoIiR7c3ByaW5nLnJlZGlzLnBvcnR9IikKIA==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLXJlZGlzPC9hcnRpZmFjdElkPgoJCTwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -390,6 +391,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
