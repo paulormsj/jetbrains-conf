@@ -15,8 +15,8 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-cms-microservices/bin/sonar.sh" timestamp="1541532290988">
-        <mark key="[" line="8" column="0" />
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-cms-microservices/bin/sonar.sh" timestamp="1541599626201">
+        <mark key="[" line="10" column="71" />
         <mark key="]" line="8" column="71" />
         <mark key="." line="8" column="0" />
       </file>
@@ -51,10 +51,11 @@
         <mark key="^" line="29" column="32" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/bin/sonar.sh" timestamp="1541532288773">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="71" />
-        <mark key="." line="4" column="21" />
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/bin/sonar.sh" timestamp="1541599478559">
+        <mark key="[" line="10" column="71" />
+        <mark key="]" line="10" column="72" />
+        <mark key="." line="10" column="72" />
+        <mark key="^" line="10" column="72" />
       </file>
       <file name="/a.sql" timestamp="1541109195591">
         <mark key="[" line="0" column="0" />
