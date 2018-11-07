@@ -1,0 +1,394 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/application.properties" timestamp="1541446499316">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="33" column="27" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/src/main/java/com/clickbus/platform/places/config/CacheManagerConfig.java" timestamp="1541521822908">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="39" />
+        <mark key="^" line="17" column="3" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-cms-microservices/bin/sonar.sh" timestamp="1541532290988">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="71" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-rollback-worker/pom.xml" timestamp="1541450434107" />
+      <file name="/platform.customer [plataform@localhost]" timestamp="1541431900140">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1541521756770">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/config-stash/trips_api/application.properties" timestamp="1541452482002" />
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/src/test/java/com/clickbus/platform/places/PlaceConfigTest.java" timestamp="1541447962247" />
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/application.properties" timestamp="1541520935791">
+        <mark key="'" line="28" column="56" />
+        <mark key="[" line="45" column="44" />
+        <mark key="]" line="66" column="30" />
+        <mark key="." line="66" column="30" />
+        <mark key="^" line="66" column="30" />
+      </file>
+      <file name="/platform.country [plataform@localhost]" timestamp="1541431890236">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/14f29f53-077a-4af8-86e0-6ccecbcbef77/console.sql" timestamp="1540917266586">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-cms-microservices/src/main/java/com/clickbus/platform/cms/Application.java" timestamp="1541521843237">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="33" column="32" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/bin/sonar.sh" timestamp="1541532288773">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="71" />
+        <mark key="." line="4" column="21" />
+      </file>
+      <file name="/a.sql" timestamp="1541109195591">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/config-stash/rollback_worker/application.properties" timestamp="1541508975975" />
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/pom.xml" timestamp="1541511187777">
+        <mark key="'" line="144" column="27" />
+        <mark key="[" line="33" column="21" />
+        <mark key="]" line="69" column="26" />
+        <mark key="." line="69" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-rollback-worker/application.properties" timestamp="1541509482912">
+        <mark key="'" line="52" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/.travis.yml" timestamp="1540940409466">
+        <mark key="[" line="15" column="11" />
+        <mark key="]" line="16" column="10" />
+        <mark key="." line="16" column="10" />
+        <mark key="^" line="16" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/main/java/com/clickbus/platform/mail/worker/task/MailTask.java" timestamp="1541437361572">
+        <mark key="'" line="53" column="28" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="49" column="40" />
+        <mark key="^" line="49" column="40" />
+        <mark key="." line="49" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-cms-microservices/src/test/java/com/clickbus/platform/cms/business/CMSBusinessTest.java" timestamp="1541529766741">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1541432043202">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-cms-microservices/pom.xml" timestamp="1541530075167">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="94" column="21" />
+        <mark key="." line="83" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1541510074725">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6ea0867c-ed4f-435b-ae1d-d6c119c8dcf8/console.sql" timestamp="1541109157671">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/config-stash/mail_worker/application.properties" timestamp="1541452515775">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="40" column="72" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="/platform.discount [plataform@localhost]" timestamp="1541431993360">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/main/java/com/clickbus/platform/mail/worker/mandrill/service/MandrillServiceImpl.java" timestamp="1541445621974">
+        <mark key="'" line="429" column="28" />
+        <mark key="[" line="326" column="94" />
+        <mark key="]" line="327" column="7" />
+        <mark key="." line="327" column="7" />
+        <mark key="^" line="327" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-cms-microservices/src/main/java/com/clickbus/platform/cms/config/CacheManagerConfig.java" timestamp="1541521828919">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="15" column="2" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/pom.xml" timestamp="1541521226963">
+        <mark key="'" line="130" column="21" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="140" column="21" />
+        <mark key="^" line="86" column="28" />
+        <mark key="." line="73" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/main/java/com/clickbus/platform/mail/worker/Application.java" timestamp="1541448063717">
+        <mark key="[" line="24" column="33" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-cms-microservices/src/main/java/com/clickbus/platform/cms/business/CMSBusinessImpl.java" timestamp="1541523154554" />
+      <file name="/platform.order [platform@localhost]" timestamp="1540908747748">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-cms-microservices/src/main/java/com/clickbus/platform/cms/web/CMSController.java" timestamp="1541523209604">
+        <mark key="'" line="66" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-cms-microservices/src/main/java/com/clickbus/platform/cms/config/CacheConfig.java" timestamp="1541521752500">
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="14" column="16" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="14" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/src/test/java/com/clickbus/platform/places/integration/test/CucumberIntegrationTestIT.java" timestamp="1540992424294">
+        <mark key="[" line="18" column="77" />
+      </file>
+      <file name="/pom.xml" timestamp="1541448310782" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/26712df1-6de5-4a3c-a347-41105d28bbf6/console.sql" timestamp="1541510272109">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-cms-microservices/application.properties" timestamp="1541523533625">
+        <mark key="'" line="45" column="25" />
+        <mark key="[" line="186" column="11" />
+        <mark key="]" line="182" column="55" />
+        <mark key="." line="182" column="55" />
+        <mark key="^" line="182" column="55" />
+      </file>
+      <file name="/fragment.java" timestamp="1541523188703">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/clickbus/platform/clickbus-platform-general-services/1.16.149/clickbus-platform-general-services-1.16.149-sources.jar!/com/clickbus/platform/email/utils/TemplateUtilsImpl.java" timestamp="1541445684152" />
+      <file name="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/src/main/java/com/clickbus/platform/places/Application.java" timestamp="1541521348749" />
+    </filemarks>
+    <jumps>
+      <jump line="4" column="30" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/pom.xml" />
+      <jump line="17" column="24" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/pom.xml" />
+      <jump line="22" column="32" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/pom.xml" />
+      <jump line="69" column="29" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/pom.xml" />
+      <jump line="68" column="46" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/pom.xml" />
+      <jump line="106" column="54" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/pom.xml" />
+      <jump line="244" column="30" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/pom.xml" />
+      <jump line="85" column="51" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/pom.xml" />
+      <jump line="15" column="0" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-trips-microservices/pom.xml" />
+      <jump line="53" column="55" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/pom.xml" />
+      <jump line="277" column="37" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/java/com/clickbus/platform/mail/worker/service/CancellationRequestMailServiceImplTest.java" />
+      <jump line="9" column="34" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="146" column="36" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="158" column="8" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="172" column="2" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="784" column="42" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="1096" column="0" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="1489" column="0" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="1486" column="0" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="1483" column="0" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="1478" column="0" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="1474" column="0" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="1468" column="0" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="1140" column="23" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="978" column="2" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="959" column="2" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="932" column="2" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="914" column="37" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="899" column="5" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="887" column="23" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="872" column="2" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="824" column="3" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="810" column="3" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="804" column="24" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="1104" column="0" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="1105" column="0" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="1106" column="0" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="1107" column="0" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="1109" column="0" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="1113" column="0" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="1118" column="0" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="1117" column="0" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="1124" column="21" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="1141" column="96" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="1144" column="25" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="1163" column="25" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="1208" column="18" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="1218" column="27" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="1254" column="12" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="66" column="1" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/test/resources/schema-all.sql" />
+      <jump line="64" column="11" filename="$MAVEN_REPOSITORY$/com/clickbus/platform/clickbus-platform-common/1.13.117-CB-170-SNAPSHOT/clickbus-platform-common-1.13.117-CB-170-20181023.193221-3.jar!/com/clickbus/platform/domain/entities/OrderItem.class" />
+      <jump line="100" column="38" filename="$MAVEN_REPOSITORY$/com/clickbus/platform/clickbus-platform-common/1.13.117-CB-170-SNAPSHOT/clickbus-platform-common-1.13.117-CB-170-20181023.193221-3.jar!/com/clickbus/platform/domain/entities/OrderItem.class" />
+      <jump line="102" column="38" filename="$MAVEN_REPOSITORY$/com/clickbus/platform/clickbus-platform-common/1.13.117-CB-170-SNAPSHOT/clickbus-platform-common-1.13.117-CB-170-20181023.193221-3.jar!/com/clickbus/platform/domain/entities/OrderItem.class" />
+      <jump line="104" column="29" filename="$MAVEN_REPOSITORY$/com/clickbus/platform/clickbus-platform-common/1.13.117-CB-170-SNAPSHOT/clickbus-platform-common-1.13.117-CB-170-20181023.193221-3.jar!/com/clickbus/platform/domain/entities/OrderItem.class" />
+      <jump line="106" column="41" filename="$MAVEN_REPOSITORY$/com/clickbus/platform/clickbus-platform-common/1.13.117-CB-170-SNAPSHOT/clickbus-platform-common-1.13.117-CB-170-20181023.193221-3.jar!/com/clickbus/platform/domain/entities/OrderItem.class" />
+      <jump line="108" column="44" filename="$MAVEN_REPOSITORY$/com/clickbus/platform/clickbus-platform-common/1.13.117-CB-170-SNAPSHOT/clickbus-platform-common-1.13.117-CB-170-20181023.193221-3.jar!/com/clickbus/platform/domain/entities/OrderItem.class" />
+      <jump line="126" column="35" filename="$MAVEN_REPOSITORY$/com/clickbus/platform/clickbus-platform-common/1.13.117-CB-170-SNAPSHOT/clickbus-platform-common-1.13.117-CB-170-20181023.193221-3.jar!/com/clickbus/platform/domain/entities/OrderItem.class" />
+      <jump line="228" column="20" filename="$MAVEN_REPOSITORY$/com/clickbus/platform/clickbus-platform-common/1.13.117-CB-170-SNAPSHOT/clickbus-platform-common-1.13.117-CB-170-20181023.193221-3.jar!/com/clickbus/platform/domain/entities/OrderItem.class" />
+      <jump line="231" column="60" filename="$MAVEN_REPOSITORY$/com/clickbus/platform/clickbus-platform-common/1.13.117-CB-170-SNAPSHOT/clickbus-platform-common-1.13.117-CB-170-20181023.193221-3.jar!/com/clickbus/platform/domain/entities/OrderItem.class" />
+      <jump line="232" column="33" filename="$MAVEN_REPOSITORY$/com/clickbus/platform/clickbus-platform-common/1.13.117-CB-170-SNAPSHOT/clickbus-platform-common-1.13.117-CB-170-20181023.193221-3.jar!/com/clickbus/platform/domain/entities/OrderItem.class" />
+      <jump line="260" column="20" filename="$MAVEN_REPOSITORY$/com/clickbus/platform/clickbus-platform-common/1.13.117-CB-170-SNAPSHOT/clickbus-platform-common-1.13.117-CB-170-20181023.193221-3.jar!/com/clickbus/platform/domain/entities/OrderItem.class" />
+      <jump line="263" column="47" filename="$MAVEN_REPOSITORY$/com/clickbus/platform/clickbus-platform-common/1.13.117-CB-170-SNAPSHOT/clickbus-platform-common-1.13.117-CB-170-20181023.193221-3.jar!/com/clickbus/platform/domain/entities/OrderItem.class" />
+      <jump line="264" column="29" filename="$MAVEN_REPOSITORY$/com/clickbus/platform/clickbus-platform-common/1.13.117-CB-170-SNAPSHOT/clickbus-platform-common-1.13.117-CB-170-20181023.193221-3.jar!/com/clickbus/platform/domain/entities/OrderItem.class" />
+      <jump line="268" column="20" filename="$MAVEN_REPOSITORY$/com/clickbus/platform/clickbus-platform-common/1.13.117-CB-170-SNAPSHOT/clickbus-platform-common-1.13.117-CB-170-20181023.193221-3.jar!/com/clickbus/platform/domain/entities/OrderItem.class" />
+      <jump line="271" column="51" filename="$MAVEN_REPOSITORY$/com/clickbus/platform/clickbus-platform-common/1.13.117-CB-170-SNAPSHOT/clickbus-platform-common-1.13.117-CB-170-20181023.193221-3.jar!/com/clickbus/platform/domain/entities/OrderItem.class" />
+      <jump line="272" column="31" filename="$MAVEN_REPOSITORY$/com/clickbus/platform/clickbus-platform-common/1.13.117-CB-170-SNAPSHOT/clickbus-platform-common-1.13.117-CB-170-20181023.193221-3.jar!/com/clickbus/platform/domain/entities/OrderItem.class" />
+      <jump line="276" column="20" filename="$MAVEN_REPOSITORY$/com/clickbus/platform/clickbus-platform-common/1.13.117-CB-170-SNAPSHOT/clickbus-platform-common-1.13.117-CB-170-20181023.193221-3.jar!/com/clickbus/platform/domain/entities/OrderItem.class" />
+      <jump line="279" column="51" filename="$MAVEN_REPOSITORY$/com/clickbus/platform/clickbus-platform-common/1.13.117-CB-170-SNAPSHOT/clickbus-platform-common-1.13.117-CB-170-20181023.193221-3.jar!/com/clickbus/platform/domain/entities/OrderItem.class" />
+      <jump line="280" column="31" filename="$MAVEN_REPOSITORY$/com/clickbus/platform/clickbus-platform-common/1.13.117-CB-170-SNAPSHOT/clickbus-platform-common-1.13.117-CB-170-20181023.193221-3.jar!/com/clickbus/platform/domain/entities/OrderItem.class" />
+      <jump line="312" column="20" filename="$MAVEN_REPOSITORY$/com/clickbus/platform/clickbus-platform-common/1.13.117-CB-170-SNAPSHOT/clickbus-platform-common-1.13.117-CB-170-20181023.193221-3.jar!/com/clickbus/platform/domain/entities/OrderItem.class" />
+      <jump line="315" column="46" filename="$MAVEN_REPOSITORY$/com/clickbus/platform/clickbus-platform-common/1.13.117-CB-170-SNAPSHOT/clickbus-platform-common-1.13.117-CB-170-20181023.193221-3.jar!/com/clickbus/platform/domain/entities/OrderItem.class" />
+      <jump line="316" column="35" filename="$MAVEN_REPOSITORY$/com/clickbus/platform/clickbus-platform-common/1.13.117-CB-170-SNAPSHOT/clickbus-platform-common-1.13.117-CB-170-20181023.193221-3.jar!/com/clickbus/platform/domain/entities/OrderItem.class" />
+      <jump line="328" column="20" filename="$MAVEN_REPOSITORY$/com/clickbus/platform/clickbus-platform-common/1.13.117-CB-170-SNAPSHOT/clickbus-platform-common-1.13.117-CB-170-20181023.193221-3.jar!/com/clickbus/platform/domain/entities/OrderItem.class" />
+      <jump line="331" column="57" filename="$MAVEN_REPOSITORY$/com/clickbus/platform/clickbus-platform-common/1.13.117-CB-170-SNAPSHOT/clickbus-platform-common-1.13.117-CB-170-20181023.193221-3.jar!/com/clickbus/platform/domain/entities/OrderItem.class" />
+      <jump line="332" column="34" filename="$MAVEN_REPOSITORY$/com/clickbus/platform/clickbus-platform-common/1.13.117-CB-170-SNAPSHOT/clickbus-platform-common-1.13.117-CB-170-20181023.193221-3.jar!/com/clickbus/platform/domain/entities/OrderItem.class" />
+      <jump line="336" column="20" filename="$MAVEN_REPOSITORY$/com/clickbus/platform/clickbus-platform-common/1.13.117-CB-170-SNAPSHOT/clickbus-platform-common-1.13.117-CB-170-20181023.193221-3.jar!/com/clickbus/platform/domain/entities/OrderItem.class" />
+      <jump line="339" column="63" filename="$MAVEN_REPOSITORY$/com/clickbus/platform/clickbus-platform-common/1.13.117-CB-170-SNAPSHOT/clickbus-platform-common-1.13.117-CB-170-20181023.193221-3.jar!/com/clickbus/platform/domain/entities/OrderItem.class" />
+      <jump line="340" column="37" filename="$MAVEN_REPOSITORY$/com/clickbus/platform/clickbus-platform-common/1.13.117-CB-170-SNAPSHOT/clickbus-platform-common-1.13.117-CB-170-20181023.193221-3.jar!/com/clickbus/platform/domain/entities/OrderItem.class" />
+      <jump line="98" column="36" filename="$MAVEN_REPOSITORY$/com/clickbus/platform/clickbus-platform-common/1.13.117-CB-170-SNAPSHOT/clickbus-platform-common-1.13.117-CB-170-20181023.193221-3.jar!/com/clickbus/platform/domain/entities/OrderItem.class" />
+      <jump line="425" column="26" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/main/java/com/clickbus/platform/mail/worker/mandrill/service/MandrillServiceImpl.java" />
+      <jump line="257" column="48" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/main/java/com/clickbus/platform/mail/worker/mandrill/service/MandrillServiceImpl.java" />
+      <jump line="292" column="56" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/main/java/com/clickbus/platform/mail/worker/mandrill/service/MandrillServiceImpl.java" />
+      <jump line="274" column="37" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/main/java/com/clickbus/platform/mail/worker/mandrill/service/MandrillServiceImpl.java" />
+      <jump line="429" column="28" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/main/java/com/clickbus/platform/mail/worker/mandrill/service/MandrillServiceImpl.java" />
+      <jump line="49" column="40" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/main/java/com/clickbus/platform/mail/worker/task/MailTask.java" />
+      <jump line="53" column="28" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/src/main/java/com/clickbus/platform/mail/worker/task/MailTask.java" />
+      <jump line="28" column="56" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/application.properties" />
+      <jump line="25" column="20" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/pom.xml" />
+      <jump line="26" column="44" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/pom.xml" />
+      <jump line="130" column="27" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-mail-worker/pom.xml" />
+      <jump line="52" column="22" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-rollback-worker/application.properties" />
+      <jump line="86" column="46" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/pom.xml" />
+      <jump line="115" column="12" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-cms-microservices/pom.xml" />
+      <jump line="63" column="23" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-cms-microservices/pom.xml" />
+      <jump line="85" column="44" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-cms-microservices/pom.xml" />
+      <jump line="129" column="0" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/pom.xml" />
+      <jump line="138" column="36" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/pom.xml" />
+      <jump line="130" column="21" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-places-microservices/pom.xml" />
+      <jump line="45" column="25" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-cms-microservices/application.properties" />
+      <jump line="66" column="24" filename="$USER_HOME$/Documents/projetos/clickbus-development/platform/repositories/clickbus-platform-cms-microservices/src/main/java/com/clickbus/platform/cms/web/CMSController.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAtRHNvbmFyLmdpdGh1Yi5vYXV0aD0yNWYxOWUzNDMzZTA1YTI3MzBhNjY5MTdlNzJhODQ2MGJmYjg3Y2NlIFwK</text>
+      </register>
+      <register name="-" type="4">
+        <text>/media/antonio-cesar/HD/workspace/clickbus-cms</text>
+      </register>
+      <register name="/" type="4">
+        <text>file.pa</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAtRHNvbmFyLmdpdGh1Yi5vYXV0aD04M2NmZGQzM2Y0MGQxNGE5NWVhZTVkMTRhYWZiMzlkZjRkNDRiYjBlIFwK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAtRHNvbmFyLmdpdGh1Yi5vYXV0aD0yNWYxOWUzNDMzZTA1YTI3MzBhNjY5MTdlNzJhODQ2MGJmYjg3Y2NlIFwK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CS1Ec29uYXIuaG9zdC51cmw9aHR0cDovL3NvbmFycXViZS5jbGlja2J1cy5uZXQ6OTAwMCBcCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBASWdub3JlCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">QEVuYWJsZUNhY2hpbmcocHJveHlUYXJnZXRDbGFzcz10cnVlKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CUBCZWFuCglwdWJsaWMgUmVkaXNUZW1wbGF0ZTw/LCA/PiByZWRpc1RlbXBsYXRlKFJlZGlzQ29ubmVjdGlvbkZhY3RvcnkgcmVkaXNDb25uZWN0aW9uRmFjdG9yeSl7CgkJUmVkaXNUZW1wbGF0ZTw/LCA/PiByZWRpc1RlbXBsYXRlID0gbmV3IFJlZGlzVGVtcGxhdGU8PigpOwoJCXJlZGlzVGVtcGxhdGUuc2V0Q29ubmVjdGlvbkZhY3RvcnkocmVkaXNDb25uZWN0aW9uRmFjdG9yeSk7CgkJcmV0dXJuIHJlZGlzVGVtcGxhdGU7Cgl9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CXByaXZhdGUgbG9uZyBjYWNoZVRpbWVvdXREZWZhdWx0OyAgIHByaXZhdGUgU3RyaW5nIHJlZGlzUG9ydDsK</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CgkKCUBWYWx1ZSgiJHtzcHJpbmcucmVkaXMuaG9zdH0iKQogICAgcHJpdmF0ZSBTdHJpbmcgcmVkaXNIb3N0OwoJCiAgICBAVmFsdWUoIiR7c3ByaW5nLnJlZGlzLnBvcnR9IikKIA==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLXJlZGlzPC9hcnRpZmFjdElkPgoJCTwvZGVwZW5kZW5jeT4K</text>
+      </register>
+      <register name=":" type="4">
+        <text>wq</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>file.pa</last-search>
+      <last-offset />
+      <last-pattern>file.pa</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>discount_v</entry>
+        <entry>INSERT INTO</entry>
+        <entry>INSERT INTO DISCOUNT</entry>
+        <entry>INSERT INTO discount_vouc</entry>
+        <entry>is_active</entry>
+        <entry>number_usages_re</entry>
+        <entry>number_usages</entry>
+        <entry>INSERT INTO discount</entry>
+        <entry>client_application</entry>
+        <entry>CREATE TABLE client_application</entry>
+        <entry>INSERT INTO client_application</entry>
+        <entry>orderItem</entry>
+        <entry>orderItems</entry>
+        <entry>cms</entry>
+        <entry>red</entry>
+        <entry>data</entry>
+        <entry>sqs</entry>
+        <entry>redis</entry>
+        <entry>path</entry>
+        <entry>file.pa</entry>
+      </history-search>
+      <history-cmd>
+        <entry>q!</entry>
+        <entry>wq</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
